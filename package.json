@@ -1,0 +1,11 @@
+{
+  "name": "tixy-cpu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "gateware-ts": "^0.0.4",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3"
+  }
+}
